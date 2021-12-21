@@ -1,0 +1,4 @@
+402. Remove K Digits
+
+--> Use dp[n][k]    T=O(n*k)
+--> Use stack  T=O(n)
