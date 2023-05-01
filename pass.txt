@@ -22,3 +22,5 @@ https://leetcode.com/problems/top-k-frequent-elements/
 https://leetcode.com/problems/sort-characters-by-frequency/
 
 https://leetcode.com/problems/k-closest-points-to-origin/
+
+It is outdated.
