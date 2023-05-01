@@ -24,6 +24,10 @@ https://leetcode.com/problems/sort-characters-by-frequency/
 
 https://leetcode.com/problems/k-closest-points-to-origin/
 
+
 Misssing my old days.
 
 :)
+
+It is outdated.
+
